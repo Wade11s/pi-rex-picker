@@ -1,0 +1,15 @@
+{
+	"name": "pi-rex-picker",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"description": "Replaces Pi's @ file picker with Rex's Insert Path",
+	"keywords": ["pi-package"],
+	"pi": {
+		"extensions": ["./src/index.ts"]
+	},
+	"scripts": {
+		"test": "node --test test/",
+		"typecheck": "tsc --noEmit"
+	}
+}
