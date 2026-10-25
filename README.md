@@ -74,3 +74,7 @@ keybinding.
 - [Design](docs/design.md) explains why Rex inserts the path, and why the extension
   reports Pi's working directory.
 - [Development](docs/reference.md#development) covers the test and typecheck commands.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
